@@ -18,7 +18,6 @@
       train.py：训练函数，调用以上两个文件，需要train_val.csv检索数据
       model_load.py：预测函数，需要model1.h5、model2.h5，需要train_val.csv检索数据
     
-    由于训练集及测试集数据量大，因此不放在Github中。将model_load.py、两个模型与test.csv、Submission.csv放入与测试
-集同一路径下，即可运行model_load.py。（仍然输出在Submission.csv中）
+    由于训练集及测试集数据量大，因此不放在Github中。将model_load.py、两个模型与test.csv、Submission.csv放入与测试集同一路径下，即可运行model_load.py。（仍然输出在Submission.csv中）
     
     由于时间仓促并不能很好地完善所有细节，有很多不足的地方希望得到指正！
